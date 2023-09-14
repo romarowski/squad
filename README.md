@@ -1,1 +1,1 @@
-Train from scratch on the SQuAD dataset.
+Fine tune bert on the SQuAD dataset.
